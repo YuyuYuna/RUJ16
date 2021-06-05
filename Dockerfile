@@ -1,4 +1,4 @@
-FROM        openjdk:16-slim
+FROM        shipilev/openjdk-shenandoah:8
 LABEL       author="YuyuLuna" maintainer="admin@mail.yuyucloud.com"
 
 
